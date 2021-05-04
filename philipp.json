@@ -149,7 +149,7 @@
         {
          "columns":8,
          "firstgid":1855,
-         "image":"philipp_added\/Pipoya RPG World Tileset 48x48 40x40 32x32 for Tiled1.5\/32x32\/pipo-map001.png",
+         "image":"philipp_added\/pipo-map001.png",
          "imageheight":544,
          "imagewidth":256,
          "margin":0,
@@ -162,7 +162,7 @@
         {
          "columns":16,
          "firstgid":1991,
-         "image":"philipp_added\/Pipoya RPG World Tileset 48x48 40x40 32x32 for Tiled1.5\/32x32\/pipo-map001_at.png",
+         "image":"philipp_added\/pipo-map001_at.png",
          "imageheight":960,
          "imagewidth":512,
          "margin":0,
