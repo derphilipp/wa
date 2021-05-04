@@ -4,11 +4,31 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJztwwEJAAAMBKHrX+HLDpZDwVVTVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVX\/AazmqAo=",
+         "data":"eJztzjERADAIBLDfkFSxmEUGVy5D9nSSBgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgrFf7BwAAgJ8M2WynrQ==",
          "encoding":"base64",
          "height":100,
          "id":1,
          "name":"start",
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
+         "type":"tilelayer",
+         "visible":true,
+         "width":100,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "compression":"zlib",
+         "data":"eJzt0bEJADAMBDF3mSn7L+YRAobAG6T2yqsCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgJ3umTX+8COLH1n8yOIHAAAvDczpAoE=",
+         "encoding":"base64",
+         "height":100,
+         "id":4,
+         "name":"collides",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
@@ -19,21 +39,15 @@
         {
          "draworder":"topdown",
          "id":2,
-         "name":"Floorlayer",
+         "name":"floorLayer",
          "objects":[],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"startlayer",
-                 "type":"bool",
-                 "value":true
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
          "y":0
         }],
- "nextlayerid":3,
+ "nextlayerid":5,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
@@ -50,6 +64,19 @@
          "name":"Landscape",
          "spacing":0,
          "tilecount":1845,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":9,
+         "firstgid":1846,
+         "image":"assets\/mapUtilities.png",
+         "imageheight":32,
+         "imagewidth":288,
+         "margin":0,
+         "name":"mapUtilities",
+         "spacing":0,
+         "tilecount":9,
          "tileheight":32,
          "tilewidth":32
         }],
