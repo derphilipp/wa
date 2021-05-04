@@ -1,0 +1,43 @@
+{ "compressionlevel":-1,
+ "height":100,
+ "infinite":false,
+ "layers":[
+        {
+         "compression":"zlib",
+         "data":"eJztwwEJAAAMBKHrX+HLDpZDwVVTVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVX\/AazmqAo=",
+         "encoding":"base64",
+         "height":100,
+         "id":1,
+         "name":"Tile Layer 1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":100,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":2,
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.6.0",
+ "tileheight":32,
+ "tilesets":[
+        {
+         "columns":15,
+         "firstgid":1,
+         "image":"assets\/cija_32x32_expansion for Pipoya_CC0.png",
+         "imageheight":3936,
+         "imagewidth":480,
+         "margin":0,
+         "name":"Landscape",
+         "spacing":0,
+         "tilecount":1845,
+         "tileheight":32,
+         "tilewidth":32
+        }],
+ "tilewidth":32,
+ "type":"map",
+ "version":"1.6",
+ "width":100
+}
