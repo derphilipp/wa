@@ -4,11 +4,11 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJztzjERADAIBLDfkFSxmEUGVy5D9nSSBgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgrFf7BwAAgJ8M2WynrQ==",
+         "data":"eJztzkENAAAIBKD7Gcn+zYyhm5CABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4Keu7QEAABcNEhYAPw==",
          "encoding":"base64",
          "height":100,
-         "id":1,
-         "name":"start",
+         "id":6,
+         "name":"startLayer",
          "opacity":1,
          "properties":[
                 {
@@ -37,6 +37,20 @@
          "y":0
         }, 
         {
+         "compression":"zlib",
+         "data":"eJzt08EJADAIBEH7b8Fm883rntHADBwWsFgFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP\/pMN5LPTSZocU+fV0t5vkNAACSA2PwEPU=",
+         "encoding":"base64",
+         "height":100,
+         "id":5,
+         "name":"floorLayer",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":false,
+         "width":100,
+         "x":0,
+         "y":0
+        }, 
+        {
          "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
@@ -47,7 +61,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":5,
+ "nextlayerid":7,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
