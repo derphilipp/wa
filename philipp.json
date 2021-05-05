@@ -612,7 +612,7 @@
          "height":100,
          "id":6,
          "name":"start",
-         "opacity":0,
+         "opacity":1,
          "properties":[
                 {
                  "name":"startLayer",
