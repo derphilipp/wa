@@ -186,7 +186,7 @@
          "height":100,
          "id":49,
          "name":"JitsiEsszimmer",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"openWebsite",
@@ -204,7 +204,7 @@
          "height":100,
          "id":45,
          "name":"audio25",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
@@ -222,7 +222,7 @@
          "height":100,
          "id":46,
          "name":"audio24",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
@@ -240,7 +240,7 @@
          "height":100,
          "id":44,
          "name":"audio23",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
@@ -258,7 +258,7 @@
          "height":100,
          "id":43,
          "name":"audio22",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
@@ -276,7 +276,7 @@
          "height":100,
          "id":42,
          "name":"audio21",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
@@ -294,7 +294,7 @@
          "height":100,
          "id":41,
          "name":"audio20",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
@@ -312,7 +312,7 @@
          "height":100,
          "id":40,
          "name":"audio19",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
@@ -330,7 +330,7 @@
          "height":100,
          "id":39,
          "name":"audio18",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
@@ -348,7 +348,7 @@
          "height":100,
          "id":38,
          "name":"audio17",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
@@ -366,7 +366,7 @@
          "height":100,
          "id":37,
          "name":"audio16",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
@@ -384,7 +384,7 @@
          "height":100,
          "id":36,
          "name":"audio15",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
@@ -402,7 +402,7 @@
          "height":100,
          "id":35,
          "name":"audio14",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
@@ -420,7 +420,7 @@
          "height":100,
          "id":33,
          "name":"audio13",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
@@ -438,7 +438,7 @@
          "height":100,
          "id":32,
          "name":"audio12",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
@@ -456,7 +456,7 @@
          "height":100,
          "id":31,
          "name":"audio11",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
@@ -474,7 +474,7 @@
          "height":100,
          "id":30,
          "name":"audio10",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
@@ -492,7 +492,7 @@
          "height":100,
          "id":29,
          "name":"audio09",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
@@ -510,7 +510,7 @@
          "height":100,
          "id":28,
          "name":"audio08",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
@@ -528,7 +528,7 @@
          "height":100,
          "id":27,
          "name":"audio07",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
@@ -546,7 +546,7 @@
          "height":100,
          "id":26,
          "name":"audio06",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
@@ -564,7 +564,7 @@
          "height":100,
          "id":25,
          "name":"audio05",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
@@ -582,7 +582,7 @@
          "height":100,
          "id":24,
          "name":"audio04",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
@@ -600,7 +600,7 @@
          "height":100,
          "id":23,
          "name":"audio03",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
@@ -618,7 +618,7 @@
          "height":100,
          "id":22,
          "name":"audio02",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
@@ -636,7 +636,7 @@
          "height":100,
          "id":17,
          "name":"audio01",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
@@ -672,7 +672,7 @@
          "height":100,
          "id":4,
          "name":"collides",
-         "opacity":1,
+         "opacity":0,
          "type":"tilelayer",
          "visible":true,
          "width":100,
